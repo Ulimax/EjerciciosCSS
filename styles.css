@@ -40,7 +40,7 @@ a{
     color: #c30;
 }
 
-em{
+#primero em{
     color: #0000BB;
     background-color: #FFFFCC;
 }
@@ -48,6 +48,6 @@ em.especial{
     color: #ffff00;
     background-color: #000000;
 }
-span{
+.normal span{
     font-weight: bold;
 }
